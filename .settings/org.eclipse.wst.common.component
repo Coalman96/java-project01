@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="java-project01-bicamp">
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/01.Model2MVCShop(stu)/src/main/java"/>
+        <property name="context-root" value="java-project01-bicamp"/>
+        <property name="java-output-path" value="/java-project01-bicamp/bin"/>
+    </wb-module>
+</project-modules>
